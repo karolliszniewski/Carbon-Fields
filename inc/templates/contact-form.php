@@ -1,4 +1,4 @@
-<form>
+<form id="enquiry_form">
     <label>Name:</label>
     <input type="text" name="name"><br /><br />
     <label>Email:</label>
